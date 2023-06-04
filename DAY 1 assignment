@@ -1,0 +1,4 @@
+What is Xms and Xmx variables?
+Xmx specifies the maximum memory Heap size where Xms means initial Heap size memory in JVM
+
+
