@@ -8,3 +8,5 @@ Write 5 IDE names for Java?
 4.Blue J
 5.J Developer
 
+Hoe to set Different JRE in eclipse.ini file?
+Select project-->Properties-->Build Path-->libraries-->JRE system library-->edit
