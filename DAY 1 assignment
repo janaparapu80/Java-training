@@ -13,3 +13,11 @@ Select project-->Properties-->Build Path-->libraries-->JRE system library-->edit
 
 How to increase Heap Space in eclipse.ini file?
 in eclipse install directory you can find eclipse.ini and change Xms and Xmx
+
+create first class in eclipse
+create a new project and create a class which are present in the menu or header bar
+
+How to add plugins in eclipse?
+i went to help in elicpse app and went to marketplace there we can search and install any plugin we want
+
+
