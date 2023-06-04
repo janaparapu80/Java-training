@@ -20,4 +20,12 @@ create a new project and create a class which are present in the menu or header 
 How to add plugins in eclipse?
 i went to help in elicpse app and went to marketplace there we can search and install any plugin we want
 
+How to increase heap memory in eclipse?
+in eclipse install directory you can find eclipse.ini and change Xms and Xmx
+
+Eclipse Command line arguments
+i read the https://help.eclipse.org/2020-06/index.jsp?topic=%2Forg.eclipse.platform.doc.isv%2Freference%2Fmisc%2Fruntime-options.html 
+
+
+
 
