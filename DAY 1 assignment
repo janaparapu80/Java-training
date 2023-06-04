@@ -10,3 +10,6 @@ Write 5 IDE names for Java?
 
 Hoe to set Different JRE in eclipse.ini file?
 Select project-->Properties-->Build Path-->libraries-->JRE system library-->edit
+
+How to increase Heap Space in eclipse.ini file?
+in eclipse install directory you can find eclipse.ini and change Xms and Xmx
